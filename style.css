@@ -1,7 +1,7 @@
 #header{
     
     background-color: #1F2937;
-    height: 40%;
+    height: 30%;
 }
 
 #banner{
@@ -10,7 +10,7 @@
 }
 
 #container{
-    height: 700px;
+    height: 800px;
 }
 
 #logo{
@@ -55,6 +55,40 @@
     
     color: #E5E7EB;
 }
+
+#button1{
+    background-color: #3882f6;
+    color:white;
+    padding: 5px 15px;
+    border-radius: 100px;
+    border:black;
+}
+
+img{
+    width:290px;
+    height:auto;
+    margin: -105px 0 0 30px;
+}
+
+
+
+#info{
+    height: 25%;
+}
+
+h2{
+    font-size:36px;
+    font-weight:800;
+    color:#1F2937;
+    text-align: center;
+    margin-top:5px;
+}
+
+#sub{
+    display:flex;
+    justify-content:space-between;
+}
+
 
 
 
